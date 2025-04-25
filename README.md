@@ -13,7 +13,3 @@ This Spring Boot application:
 ```bash
 git clone https://github.com/YOUR_USERNAME/webhookapp.git
 cd webhookapp
-
-###2. Run the application
-```bash
-mvn spring-boot:run
